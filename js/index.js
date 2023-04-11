@@ -100,5 +100,5 @@ function libraryFormSubmit(e) {
 /* To do -
             1. Add delete book button.
             2. Store data in local storage.
-            3. If many books exist, add a scroll bar feature.
+            3. If many books exist, add a scroll bar feature.       
 */
